@@ -1,0 +1,63 @@
+#publications-section {
+  background: linear-gradient(to right, #ffffff, #eef2f3); /* Updated to a more subtle gradient */
+  padding: 40px;
+  text-align: center;
+}
+
+#publications-section h2 {
+  color: #2c3e50; /* Stylish navy for a professional look */
+  margin-bottom: 2rem;
+}
+
+.publications-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.publication-card {
+  background: #ffffff; /* Pure white for the card */
+  border: 1px solid #e0e0e0; /* Lighter border for subtlety */
+  border-radius: 10px; /* Slightly increased border radius for a modern look */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); /* Softer shadow for depth */
+  padding: 20px;
+  margin: 0 auto;
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.publication-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08); /* Enhanced shadow on hover for a lifting effect */
+}
+
+.publication-title {
+  font-size: 1.4rem;
+  color: #333; /* Darker text for contrast */
+  margin-bottom: 0.5rem;
+}
+
+.publication-authors, .publication-date, .publication-journal {
+  font-size: 0.9rem;
+  color: #666; /* Softened color for details */
+  margin-bottom: 10px;
+}
+
+.publication-description {
+  font-size: 1rem;
+  color: #444; /* Slightly darker for readability */
+  margin: 10px 0;
+}
+
+.publication-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #3498db; /* Bright blue for links */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.publication-link:hover {
+  color: #2c3e50; /* Navy on hover for consistency with the theme */
+  text-decoration: underline;
+}
