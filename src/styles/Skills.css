@@ -1,0 +1,57 @@
+#skills-section {
+  background: #2c3e50; /* Updated to a stylish navy for a professional look */
+  color: #fff;
+  padding: 40px;
+  text-align: center;
+}
+
+#skills-section h2 {
+  color: #3498db; /* Vibrant blue for a lively, engaging feel */
+  margin-bottom: 2rem;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
+  gap: 20px;
+  justify-content: center;
+}
+
+.skill-card {
+  background: #3a3a3a; /* Slightly lighter grey for contrast */
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Softer shadow for subtlety */
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; /* Center align items */
+  min-height: 200px; /* Consistent height */
+}
+
+.skill-card h3 {
+  color: #fdcb6e; /* Bright yellow for titles to match the theme */
+  margin-bottom: 1rem;
+}
+
+.skill-card p {
+  font-size: 1rem; /* Slightly larger font size for readability */
+  color: #ccc; /* Lighter text color for contrast */
+}
+
+.skill-card .fa-icon {
+  margin-bottom: 1rem; /* Space below the icon */
+  color: #3498db; /* Matching the vibrant blue */
+  font-size: 2rem; /* Larger icons for visual appeal */
+}
+
+@media (max-width: 768px) {
+  .skills-grid {
+    grid-template-columns: 1fr; /* One column on smaller screens */
+    gap: 15px;
+  }
+
+  .skill-card {
+    width: 100%; /* Full width for smaller screens */
+  }
+}
