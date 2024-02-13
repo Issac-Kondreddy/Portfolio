@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8cb798d3.css",
+    "main.js": "/Portfolio/static/js/main.e2c4488f.js",
+    "static/js/592.6d7de513.chunk.js": "/Portfolio/static/js/592.6d7de513.chunk.js",
+    "static/media/TopView_Munnar.jpg": "/Portfolio/static/media/TopView_Munnar.cbc7f21273df9efbd1b9.jpg",
+    "static/media/Falls.jpg": "/Portfolio/static/media/Falls.09290b9c328c7a9dc004.jpg",
+    "static/media/mahabalipuram.jpg": "/Portfolio/static/media/mahabalipuram.751ac93078299d9dcdc0.jpg",
+    "static/media/Church_pondi.jpg": "/Portfolio/static/media/Church_pondi.e1bf5864c06f5b9049ee.jpg",
+    "static/media/Pondi_cafe.JPG": "/Portfolio/static/media/Pondi_cafe.f3af7583498a6fafad89.JPG",
+    "static/media/Helmeckin.jpg": "/Portfolio/static/media/Helmeckin.080b86f65bbf5d993179.jpg",
+    "static/media/Munnarcoffee.jpg": "/Portfolio/static/media/Munnarcoffee.a4aa3e92796683a59ee0.jpg",
+    "static/media/Snow.jpeg": "/Portfolio/static/media/Snow.5c8a93a18240fec10894.jpeg",
+    "static/media/View_Point.jpg": "/Portfolio/static/media/View_Point.30212e9b2c92d9499b99.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.8cb798d3.css.map": "/Portfolio/static/css/main.8cb798d3.css.map",
+    "main.e2c4488f.js.map": "/Portfolio/static/js/main.e2c4488f.js.map",
+    "592.6d7de513.chunk.js.map": "/Portfolio/static/js/592.6d7de513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cb798d3.css",
+    "static/js/main.e2c4488f.js"
+  ]
+}
