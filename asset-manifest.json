@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.8cb798d3.css",
+    "main.css": "/Portfolio/static/css/main.adb5feb0.css",
     "main.js": "/Portfolio/static/js/main.e2c4488f.js",
     "static/js/592.6d7de513.chunk.js": "/Portfolio/static/js/592.6d7de513.chunk.js",
     "static/media/TopView_Munnar.jpg": "/Portfolio/static/media/TopView_Munnar.cbc7f21273df9efbd1b9.jpg",
@@ -13,12 +13,12 @@
     "static/media/Snow.jpeg": "/Portfolio/static/media/Snow.5c8a93a18240fec10894.jpeg",
     "static/media/View_Point.jpg": "/Portfolio/static/media/View_Point.30212e9b2c92d9499b99.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.8cb798d3.css.map": "/Portfolio/static/css/main.8cb798d3.css.map",
+    "main.adb5feb0.css.map": "/Portfolio/static/css/main.adb5feb0.css.map",
     "main.e2c4488f.js.map": "/Portfolio/static/js/main.e2c4488f.js.map",
     "592.6d7de513.chunk.js.map": "/Portfolio/static/js/592.6d7de513.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cb798d3.css",
+    "static/css/main.adb5feb0.css",
     "static/js/main.e2c4488f.js"
   ]
 }
