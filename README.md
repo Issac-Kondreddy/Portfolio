@@ -1,7 +1,8 @@
 <!-- Header -->
 # 🌟 Welcome to Issac Kondreddy's Portfolio 🚀
 
-https://issac-kondreddy.github.io/Portfolio/
+[Visit Portfolio](https://issac-kondreddy.github.io/Portfolio/)
+
 
 <!-- Introduction -->
 ## 🎉 About
@@ -44,17 +45,19 @@ To set up this project locally, follow these simple steps:
 <!-- Deployment -->
 5. **🚀 Deployment**
 
-  My portfolio is deployed using GitHub Pages. To deploy the latest version, run:
-   ```sh
+   My portfolio is deployed using GitHub Pages. To deploy the latest version, run:
+   ```sh 
    npm run deploy
 
-**The portfolio is available at**
+<!-- Footer -->
 
-  📬 Let's Connect!
+📬 Let's Connect!
 
- Feel free to reach out to me through the following channels:
+**The Portfolio is available at:**  https://issac-kondreddy.github.io/Portfolio/
 
- Email: <issackondreddy@gmail.com>
- LinkedIn: Issac Kondreddy
- GitHub: issac-kondreddy
- Thank you for visiting my portfolio! 😊🌟
+Feel free to reach out to me through the following channels:
+<!-- Social Media -->
+-**Email:** issackondreddy@gmail.com.
+-**LinkedIn:** Issac Kondreddy.
+-**GitHub:** issac-kondreddy.
+                                                            Thank you for visiting my portfolio! 😊🌟
